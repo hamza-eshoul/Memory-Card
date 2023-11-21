@@ -1,27 +1,19 @@
-## Générateur de CV
+## Projet Memory Card
 
 [![en](https://img.shields.io/badge/lang-en-red)](README.md)
 
-Ce dépôt comprend le projet générateur de CV créé pour [Odin Project](https://www.theodinproject.com/lessons/node-path-react-new-cv-application).
+Ce dépôt comprend le projet Memory Card créé pour [Odin Project](https://www.theodinproject.com/lessons/node-path-react-new-memory-card).
 
-L'application consiste en un générateur de curriculum vitae qui permet aux utilisateurs de créer de manière dynamique des CV professionels.
+L'application consiste en un jeu de mémoire comprenant 12 cartes et 12 personnages créé à travers React.
 
 L'objectif du projet est de consolider les concepts fondamentaux de React appris à travers les lessons React du Odin Project notamment
 l'état local, les effets secondaires et les props.
 
-- Lien du projet - https://hamza-eshoul.github.io/React-Cv-Project/
+- Lien du projet - https://odin-memory-card.onrender.com/
 
-## Application
+## Interface De Jeu
 
-![Application Screenshot](/screenshots/Application.png)
-
-## Example d'un CV généré
-
-![Generated CV Screenshot](/screenshots/Example-Generated-CV.png)
-
-## Sections expérience et éducation
-
-![Education & Experience Sections Screenshot](/screenshots/Education-Experience-Sections.png)
+![Interface De Jeu](/screenshots//Game-Interface.png)
 
 ## Technologies Utilisées
 
@@ -30,7 +22,7 @@ l'état local, les effets secondaires et les props.
 
 ## Principales Fonctionnalités
 
-- Mise à jour en temps réel des informations saisis par l'utilisateur dans le CV généré
+- Mise à jour en temps réel du score des joueurs
 - Interface Utilisateur Intuitive
 
 ## Installation

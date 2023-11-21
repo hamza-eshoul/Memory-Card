@@ -8,19 +8,11 @@ The application consists of a memory card app themed game featuring 12 character
 
 The goal of the project was to solidify key fundamental React concepts learned in the Odin Project React lessons. These concepts include state, side effects and props.
 
-- Project's Live Preview url - https://hamza-eshoul.github.io/React-Cv-Project/
+- Project's Live Preview url - https://odin-memory-card.onrender.com/
 
-## Application
+## Game Interface
 
-![Application Screenshot](/screenshots/Application.png)
-
-## Example Of Generated CV
-
-![Generated CV Screenshot](/screenshots/Example-Generated-CV.png)
-
-## Education & Experience Sections
-
-![Education & Experience Sections](/screenshots/Education-Experience-Sections.png)
+![Game Interface Screenshot](/screenshots//Game-Interface.png)
 
 ## Technologies Used
 
@@ -29,7 +21,7 @@ The goal of the project was to solidify key fundamental React concepts learned i
 
 ## Key features
 
-- Realtime update of the user's score
+- Realtime update of the player's score
 - Intuitive User Interface
 
 ## Installation
